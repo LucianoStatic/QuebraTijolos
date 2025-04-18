@@ -2,14 +2,6 @@
 🧱 Quebra-Tijolos com Arduino + OLED + Joystick
 
 
-### 🎮 Demonstração do Jogo
-
-![Demonstração do jogo](https://i.imgur.com/LjFcV0I.gif)
-
-
-
-
-
 Este é um mini game estilo "Brick Breaker" desenvolvido com Arduino Uno, display OLED, joystick analógico e buzzer.
 Um projetinho divertido para quem está aprendendo programação com Arduino e quer aplicar lógica de jogos em projetos físicos!
 
